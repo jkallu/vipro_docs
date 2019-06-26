@@ -13,11 +13,8 @@ Visual programming and simulation
    blockGenPro.rst
    tgtProGenSim.rst
    viProEnv.rst
+   expParsing.rst
 
-
-
-Visual programming environment
----------------------------------
 
 Expression parsing
 -------------------
