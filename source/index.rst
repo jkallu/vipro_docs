@@ -10,11 +10,8 @@ Visual programming and simulation
    :maxdepth: 2
 
    intro.rst
+   blockGenPro.rst
 
-
-
-Block diagram description of generated program
--------------------------------------------------
 
 
 Target program generation and simulation
