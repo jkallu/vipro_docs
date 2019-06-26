@@ -11,11 +11,9 @@ Visual programming and simulation
 
    intro.rst
    blockGenPro.rst
+   tgtProGenSim.rst
 
 
-
-Target program generation and simulation
----------------------------------------------
 
 Visual programming environment
 ---------------------------------
