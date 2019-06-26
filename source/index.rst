@@ -10,10 +10,9 @@ Visual programming and simulation
    :maxdepth: 2
    :caption: Contents:
 
+   intro.rst
 
 
-Introduction
--------------------
 
 Block diagram description of generated program
 -------------------------------------------------
