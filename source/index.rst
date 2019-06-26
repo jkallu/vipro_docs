@@ -13,22 +13,22 @@ Visual programming and simulation
 
 
 Introduction
-==================
+-------------------
 
 Block diagram description of generated program
-=====================================================
+-------------------------------------------------
 
 
 Target program generation and simulation
-==========================================
+---------------------------------------------
 
 Visual programming environment
-=================================
+---------------------------------
 
 Expression parsing
-=====================
+-------------------
 
 Visual simulation environment
-==============================
+--------------------------------
 
 
