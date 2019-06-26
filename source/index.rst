@@ -12,6 +12,7 @@ Visual programming and simulation
    intro.rst
    blockGenPro.rst
    tgtProGenSim.rst
+   viProEnv.rst
 
 
 
