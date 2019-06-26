@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Visual programming and simulation
-==============================================
+++++++++++++++++++++++++++++++++++
 
 .. toctree::
    :maxdepth: 2
