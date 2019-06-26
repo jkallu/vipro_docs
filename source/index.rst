@@ -14,12 +14,7 @@ Visual programming and simulation
    tgtProGenSim.rst
    viProEnv.rst
    expParsing.rst
-
-
-Expression parsing
--------------------
-
-Visual simulation environment
---------------------------------
+   viSimEnv.rst
+   
 
 
