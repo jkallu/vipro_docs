@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to visual_programming's documentation!
+Visual programming and simulation
 ==============================================
 
 .. toctree::
@@ -12,9 +12,23 @@ Welcome to visual_programming's documentation!
 
 
 
-Indices and tables
+Introduction
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+Block diagram description of generated program
+=====================================================
+
+
+Target program generation and simulation
+==========================================
+
+Visual programming environment
+=================================
+
+Expression parsing
+=====================
+
+Visual simulation environment
+==============================
+
+
